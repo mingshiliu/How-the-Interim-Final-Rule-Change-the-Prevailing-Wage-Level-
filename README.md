@@ -9,3 +9,4 @@ Check out the dashboard using the filter by your occupation tile/soc code, count
 
 https://public.tableau.com/profile/mingshi8602#!/vizhome/Testing1_16022703680420/Dashboard2
 
+https://user-images.githubusercontent.com/34353962/95681742-944a1f00-0baf-11eb-8b6b-89252cc48a85.png
