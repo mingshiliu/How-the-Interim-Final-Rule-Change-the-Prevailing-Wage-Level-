@@ -8,3 +8,4 @@ On October 6, 2020, the U.S. Department of Labor (DOL) issued an Interim Final R
 Check out the dashboard using the filter by your occupation tile/soc code, country name and updated dated to compare the change before and after the interim final rule with the following link to Tableau Public:  
 
 https://public.tableau.com/profile/mingshi8602#!/vizhome/Testing1_16022703680420/Dashboard2
+
